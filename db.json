@@ -4,8 +4,23 @@
          "codigo_parametro_fator":1,
          "valor_inicio_intervalo":0,
          "valor_fim_intervalo":100,
+         "valor_fator_calculo":0.7,
+         "funcional":"0033214578"
+      },
+      {
+         "codigo_parametro_fator":1,
+         "valor_inicio_intervalo":101,
+         "valor_fim_intervalo":200,
+         "valor_fator_calculo":0.8,
+         "funcional":"0033214578"
+      },
+      {
+         "codigo_parametro_fator":2,
+         "valor_inicio_intervalo":0,
+         "valor_fim_intervalo":100,
          "valor_fator_calculo":0.8,
          "funcional":"0033214578"
       }
+      
    ]
 }
