@@ -1,0 +1,11 @@
+{
+   "data":[
+      {
+         "codigo_parametro_fator":1,
+         "valor_inicio_intervalo":0,
+         "valor_fim_intervalo":100,
+         "valor_fator_calculo":0.8,
+         "funcional":"0033214578"
+      }
+   ]
+}
